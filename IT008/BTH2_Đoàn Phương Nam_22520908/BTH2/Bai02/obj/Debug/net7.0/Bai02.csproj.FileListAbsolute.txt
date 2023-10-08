@@ -1,0 +1,14 @@
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\bin\Debug\net7.0\Bai02.exe
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\bin\Debug\net7.0\Bai02.deps.json
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\bin\Debug\net7.0\Bai02.runtimeconfig.json
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\bin\Debug\net7.0\Bai02.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\bin\Debug\net7.0\Bai02.pdb
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\obj\Debug\net7.0\Bai02.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\obj\Debug\net7.0\Bai02.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\obj\Debug\net7.0\Bai02.AssemblyInfo.cs
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\obj\Debug\net7.0\Bai02.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\obj\Debug\net7.0\Bai02.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\obj\Debug\net7.0\refint\Bai02.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\obj\Debug\net7.0\Bai02.pdb
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\obj\Debug\net7.0\Bai02.genruntimeconfig.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH2_Đoàn Phương Nam_22520908\BTH2\Bai02\obj\Debug\net7.0\ref\Bai02.dll
