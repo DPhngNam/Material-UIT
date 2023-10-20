@@ -1,0 +1,5 @@
+USE QuanLyBanHang
+
+
+SET DATEFORMAT DMY
+
