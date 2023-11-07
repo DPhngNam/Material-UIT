@@ -1,3 +1,3 @@
 # Material-UIT
-This is my homeowrork, projects, labs in UIT.
-Hope it can help you
+This is my homework, projects as well as labs in UIT.
+Hope it can help you!
