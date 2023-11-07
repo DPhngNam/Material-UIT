@@ -1,5 +1,5 @@
 --CREATE DATABASE QUANLYGIAOVU
---USE QUANLYGIAOVU
+
 ----------------------------------- KHOA ----------------------------------------------
 CREATE TABLE KHOA (
     MAKHOA VARCHAR(4) PRIMARY KEY,

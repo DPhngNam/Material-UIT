@@ -1,0 +1,16 @@
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\bin\Debug\net6.0-windows\Bai1.exe
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\bin\Debug\net6.0-windows\Bai1.deps.json
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\bin\Debug\net6.0-windows\Bai1.runtimeconfig.json
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\bin\Debug\net6.0-windows\Bai1.dll
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\bin\Debug\net6.0-windows\Bai1.pdb
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\Bai1.Form1.resources
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\Bai1.csproj.GenerateResource.cache
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\Bai1.AssemblyInfoInputs.cache
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\Bai1.AssemblyInfo.cs
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\Bai1.csproj.CoreCompileInputs.cache
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\Bai1.dll
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\refint\Bai1.dll
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\Bai1.pdb
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\Bai1.genruntimeconfig.cache
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\ref\Bai1.dll
