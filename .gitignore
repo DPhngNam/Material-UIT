@@ -1,0 +1,158 @@
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven specific
+target/
+
+# Eclipse specific
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+
+# NetBeans specific
+nbproject/
+build/
+
+# Gradle specific
+build/
+.gradle/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Dependency files
+*.d
+
+# CMake build directory
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+
+# Visual Studio files
+*.sdf
+*.opensdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Xcode files
+*.xcodeproj
+project.xcworkspace
+xcuserdata/
+
+# CLion files
+.idea/
+
+# Code::Blocks files
+*.cbp
+
+# Eclipse files
+.cproject
+.project
+
+# Sublime Text files
+*.sublime-workspace
+*.sublime-project
+
+# Textmate files
+*.tmproj
+tmtags
+
+# Qt Creator files
+*.pro.user
+*.pro.user.*
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# Build results
+/bin/
+/obj/
+
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.userprefs
+
+# NuGet Packages
+*.nupkg
+*.paket.*
+packages/
+
+# MSTest test Results
+TestResults/
+
+# Resharper
+_resharper*
+
+# NCrunch
+_NCrunch_*
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# Build directories used by CI/CD
+*_CI/
