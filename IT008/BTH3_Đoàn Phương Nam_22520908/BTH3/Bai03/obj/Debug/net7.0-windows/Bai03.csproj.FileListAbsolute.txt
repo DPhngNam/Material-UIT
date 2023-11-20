@@ -1,0 +1,16 @@
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\bin\Debug\net7.0-windows\Bai03.exe
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\bin\Debug\net7.0-windows\Bai03.deps.json
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\bin\Debug\net7.0-windows\Bai03.runtimeconfig.json
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\bin\Debug\net7.0-windows\Bai03.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\bin\Debug\net7.0-windows\Bai03.pdb
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\obj\Debug\net7.0-windows\Bai03.Form1.resources
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\obj\Debug\net7.0-windows\Bai03.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\obj\Debug\net7.0-windows\Bai03.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\obj\Debug\net7.0-windows\Bai03.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\obj\Debug\net7.0-windows\Bai03.AssemblyInfo.cs
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\obj\Debug\net7.0-windows\Bai03.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\obj\Debug\net7.0-windows\Bai03.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\obj\Debug\net7.0-windows\refint\Bai03.dll
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\obj\Debug\net7.0-windows\Bai03.pdb
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\obj\Debug\net7.0-windows\Bai03.genruntimeconfig.cache
+D:\OneDrive\OneDrive - studyplaner\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai03\obj\Debug\net7.0-windows\ref\Bai03.dll
