@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai04\\Bai04.csproj",
+      "projectUniqueName": "D:\\Projects\\UIT\\Material-UIT\\IT008\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai04\\Bai04.csproj",
       "projectName": "Bai04",
-      "projectPath": "D:\\Projects\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai04\\Bai04.csproj",
+      "projectPath": "D:\\Projects\\UIT\\Material-UIT\\IT008\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai04\\Bai04.csproj",
       "packagesPath": "C:\\Users\\pnam2\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai04\\obj\\",
+      "outputPath": "D:\\Projects\\UIT\\Material-UIT\\IT008\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai04\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\IDE\\Visual Studio\\Loca\\NuGetPackages"
@@ -70,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

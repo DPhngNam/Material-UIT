@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bai05
-build_property.ProjectDir = D:\Projects\Workspace\C#\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai05\
+build_property.ProjectDir = D:\Projects\UIT\Material-UIT\IT008\BTH3_Đoàn Phương Nam_22520908\BTH3\Bai05\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

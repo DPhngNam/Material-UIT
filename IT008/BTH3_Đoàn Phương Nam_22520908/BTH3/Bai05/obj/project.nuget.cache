@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AGcgqgysqaoxA8wJhUH6A/WCSfYMaSDW4CtLUTl71OBgM5TxQrFvXguusYcK8bAwsXlZRtidVzudR4jRGiOOpg==",
+  "dgSpecHash": "P9l2gJRchFEXCK3tvZgX1+T1CW0NC2u1fpoqMnXEnEp9TyeCoFwZEy3piWY7rR/bH1w8NVJF5EKpDX8gxkMaJA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Workspace\\C#\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai05\\Bai05.csproj",
+  "projectFilePath": "D:\\Projects\\UIT\\Material-UIT\\IT008\\BTH3_Đoàn Phương Nam_22520908\\BTH3\\Bai05\\Bai05.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pnam2\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\pnam2\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

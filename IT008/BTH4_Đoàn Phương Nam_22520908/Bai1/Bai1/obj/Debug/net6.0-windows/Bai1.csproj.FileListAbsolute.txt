@@ -14,3 +14,4 @@ D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\o
 D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\Bai1.pdb
 D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\Bai1.genruntimeconfig.cache
 D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\ref\Bai1.dll
+D:\Projects\UIT\Material-UIT\IT008\BTH4_Đoàn Phương Nam_22520908\Bai1\Bai1\obj\Debug\net6.0-windows\Bai1.sourcelink.json
