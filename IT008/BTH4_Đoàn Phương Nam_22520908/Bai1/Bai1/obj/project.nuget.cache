@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "12G7AuQDSd0jzPYl475B1P0SJbHhHIZA62NsZmZDSfDNbcGPzSH7dB7JygZTlGefKA2nYqFfdlZ/VNMZEuGHDg==",
+  "dgSpecHash": "QHEgOemg1InJ4hmiasyO3iNZ7AsHZAslPJDPDLc3ONjmlxT2RRIbbT1PtBYwE1Hh+Da4WgY9BKopcVbDPjHn9A==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\UIT\\Material-UIT\\IT008\\BTH4_Đoàn Phương Nam_22520908\\Bai1\\Bai1\\Bai1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Project\\Material-UIT\\IT008\\BTH4_Đoàn Phương Nam_22520908\\Bai1\\Bai1\\Bai1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pnam2\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\pnam2\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\pnam2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\pnam2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

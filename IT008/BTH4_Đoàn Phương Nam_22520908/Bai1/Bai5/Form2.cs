@@ -15,14 +15,45 @@ namespace Bai5
     {
         
 
-        String STT = "";
+        
         String mssv = "";
         String NAME = "";
         
         String KHOA = "";
         String DIEM = "";
 
+        public string ms
+        {
+            get
+            {
+                return mssv;
 
+            }
+        }
+        public string ten
+        {
+            get
+            {
+                return NAME;
+
+            }
+        }
+        public string khoa
+        {
+            get
+            {
+                return KHOA;
+
+            }
+        }
+        public string diemtb
+        {
+            get
+            {
+                return DIEM;
+
+            }
+        }
         public Form2()
         {
             InitializeComponent();
@@ -54,7 +85,13 @@ namespace Bai5
                 return;
             }
 
-            
+            mssv = MSSV.Text;
+            NAME = textBox1.Text;
+            KHOA = comboBox1.SelectedItem.ToString();
+            DIEM = DiemTB.Text;
+
+
+
         }
     }
 }

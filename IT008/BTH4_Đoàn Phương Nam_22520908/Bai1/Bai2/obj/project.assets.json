@@ -9,19 +9,19 @@
   },
   "packageFolders": {
     "C:\\Users\\pnam2\\.nuget\\packages\\": {},
-    "D:\\IDE\\Visual Studio\\Loca\\NuGetPackages": {}
+    "D:\\IDE\\Visual Studio\\SQK\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\UIT\\Material-UIT\\IT008\\BTH4_Đoàn Phương Nam_22520908\\Bai1\\Bai2\\Bai2.csproj",
+      "projectUniqueName": "D:\\Project\\Material-UIT\\IT008\\BTH4_Đoàn Phương Nam_22520908\\Bai1\\Bai2\\Bai2.csproj",
       "projectName": "Bai2",
-      "projectPath": "D:\\Projects\\UIT\\Material-UIT\\IT008\\BTH4_Đoàn Phương Nam_22520908\\Bai1\\Bai2\\Bai2.csproj",
+      "projectPath": "D:\\Project\\Material-UIT\\IT008\\BTH4_Đoàn Phương Nam_22520908\\Bai1\\Bai2\\Bai2.csproj",
       "packagesPath": "C:\\Users\\pnam2\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\UIT\\Material-UIT\\IT008\\BTH4_Đoàn Phương Nam_22520908\\Bai1\\Bai2\\obj\\",
+      "outputPath": "D:\\Project\\Material-UIT\\IT008\\BTH4_Đoàn Phương Nam_22520908\\Bai1\\Bai2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\IDE\\Visual Studio\\Loca\\NuGetPackages"
+        "D:\\IDE\\Visual Studio\\SQK\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\pnam2\\AppData\\Roaming\\NuGet\\NuGet.Config",

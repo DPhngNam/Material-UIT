@@ -36,7 +36,7 @@
             label3 = new Label();
             label4 = new Label();
             comboBox1 = new ComboBox();
-            button1 = new Button();
+            Add = new Button();
             button2 = new Button();
             SuspendLayout();
             // 
@@ -112,16 +112,16 @@
             comboBox1.Size = new Size(225, 28);
             comboBox1.TabIndex = 7;
             // 
-            // button1
+            // Add
             // 
-            button1.DialogResult = DialogResult.OK;
-            button1.Location = new Point(436, 353);
-            button1.Name = "button1";
-            button1.Size = new Size(94, 29);
-            button1.TabIndex = 8;
-            button1.Text = "Add";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            Add.DialogResult = DialogResult.OK;
+            Add.Location = new Point(436, 353);
+            Add.Name = "Add";
+            Add.Size = new Size(94, 29);
+            Add.TabIndex = 8;
+            Add.Text = "Add";
+            Add.UseVisualStyleBackColor = true;
+            Add.Click += button1_Click;
             // 
             // button2
             // 
@@ -135,11 +135,13 @@
             // 
             // Form2
             // 
+            AcceptButton = Add;
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            CancelButton = button2;
             ClientSize = new Size(800, 450);
             Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(Add);
             Controls.Add(comboBox1);
             Controls.Add(label4);
             Controls.Add(DiemTB);
@@ -165,7 +167,7 @@
         private Label label3;
         private Label label4;
         private ComboBox comboBox1;
-        private Button button1;
+        private Button Add;
         private Button button2;
     }
 }
