@@ -1,0 +1,10 @@
+D:\Project\Material-UIT\IT008\BTH5\Bai2\bin\Debug\Bai2.exe.config
+D:\Project\Material-UIT\IT008\BTH5\Bai2\bin\Debug\Bai2.exe
+D:\Project\Material-UIT\IT008\BTH5\Bai2\bin\Debug\Bai2.pdb
+D:\Project\Material-UIT\IT008\BTH5\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+D:\Project\Material-UIT\IT008\BTH5\Bai2\obj\Debug\Bai2.Form1.resources
+D:\Project\Material-UIT\IT008\BTH5\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+D:\Project\Material-UIT\IT008\BTH5\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+D:\Project\Material-UIT\IT008\BTH5\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+D:\Project\Material-UIT\IT008\BTH5\Bai2\obj\Debug\Bai2.exe
+D:\Project\Material-UIT\IT008\BTH5\Bai2\obj\Debug\Bai2.pdb
