@@ -36,6 +36,7 @@ WHERE MAHV IN
 	)
 )
 --25.	* Tìm họ tên những LOPTRG thi không đạt quá 3 môn (mỗi môn đều thi không đạt ở tất cả các lần thi).
+
 --26.	Tìm học viên (mã học viên, họ tên) có số môn đạt điểm 9, 10 nhiều nhất.
 SELECT MAHV, HO, TEN 
 FROM HOCVIEN
@@ -53,8 +54,16 @@ WHERE MAHV IN
 
 
 --27.	Trong từng lớp, tìm học viên (mã học viên, họ tên) có số môn đạt điểm 9, 10 nhiều nhất.
-
-
+SELECT HCV.MALOP, HCV.MAHV, HCV.HO, HCV.TEN 
+FROM (
+    SELECT MALOP, HV.MAHV, RANK() OVER(PARTITION BY MALOP ORDER BY COUNT(HV.MAHV) DESC) RANKIN 
+    FROM KETQUATHI KQT 
+    JOIN HOCVIEN HV ON KQT.MAHV = HV.MAHV
+    WHERE DIEM BETWEEN 9 AND 10
+    GROUP BY MALOP, HV.MAHV
+) TOPHV 
+INNER JOIN HOCVIEN HCV ON TOPHV.MAHV = HCV.MAHV AND TOPHV.MALOP = HCV.MALOP
+WHERE RANKIN = 1;
 
 --28.	Trong từng học kỳ của từng năm, mỗi giáo viên phân công dạy bao nhiêu môn học, bao nhiêu lớp.
 SELECT MAGV,HOCKY,NAM ,COUNT(MALOP) AS SOLOP, COUNT(MAMH) AS SOMON FROM GIANGDAY
@@ -70,8 +79,57 @@ HAVING COUNT( GIANGDAY.MAMH) >= ALL
 										GROUP BY GD1.MAGV,GD1.NAM,GD1.HOCKY
 									)
 --30.	Tìm môn học (mã môn học, tên môn học) có nhiều học viên thi không đạt (ở lần thi thứ 1) nhất.
+SELECT MAMH, TENMH
+FROM MONHOC
+WHERE MAMH IN (
+    SELECT TOP 1 WITH TIES MAMH
+    FROM (
+        SELECT MAMH, COUNT(KQUA) AS NumKhongDat
+        FROM KETQUATHI
+        WHERE LANTHI = 1 AND KQUA = 'Khong Dat'
+        GROUP BY MAMH
+    ) AS SubQueryAlias
+    ORDER BY NumKhongDat DESC
+)
+
+
 --31.	Tìm học viên (mã học viên, họ tên) thi môn nào cũng đạt (chỉ xét lần thi thứ 1).
+SELECT KQT.MAHV, HV.HO, HV.TEN
+FROM KETQUATHI KQT JOIN HOCVIEN HV
+	 ON KQT.MAHV = HV.MAHV
+WHERE KQT.LANTHI = 1 AND KQT.KQUA = 'Dat'
+GROUP BY KQT.MAHV, HV.HO, HV.TEN
+HAVING COUNT(KQT.MAMH) = (SELECT COUNT(MAMH)
+					  FROM KETQUATHI KQT1
+					  WHERE KQT1.MAHV = KQT.MAHV AND LANTHI = 1)
 --32.	* Tìm học viên (mã học viên, họ tên) thi môn nào cũng đạt (chỉ xét lần thi sau cùng).
---33.	* Tìm học viên (mã học viên, họ tên) đã thi tất cả các môn và đều đạt (chỉ xét lần thi thứ 1).
---34.	* Tìm học viên (mã học viên, họ tên) đã thi tất cả các môn và đều đạt (chỉ xét lần thi sau cùng).
+SELECT C.MAHV, HO , TEN HOTEN FROM (
+	SELECT MAHV, COUNT(KQUA) SODAT FROM KETQUATHI A
+	WHERE NOT EXISTS (
+		SELECT 1 
+		FROM KETQUATHI B 
+		WHERE A.MAHV = B.MAHV AND A.MAMH = B.MAMH AND A.LANTHI < B.LANTHI
+	) AND KQUA = 'Dat'
+	GROUP BY MAHV
+	INTERSECT
+	SELECT MAHV, COUNT(MAMH) SOMH FROM KETQUATHI 
+	WHERE LANTHI = 1
+	GROUP BY MAHV
+) C INNER JOIN HOCVIEN HV
+ON C.MAHV = HV.MAHV
+
 --35.	** Tìm học viên (mã học viên, họ tên) có điểm thi cao nhất trong từng môn (lấy điểm ở lần thi sau cùng).
+SELECT A.MAHV, HO , TEN , MAMH ,DIEM FROM (
+	SELECT B.MAMH, MAHV, DIEM, DIEMMAX
+	FROM KETQUATHI B INNER JOIN (
+		SELECT MAMH, MAX(DIEM) DIEMMAX FROM KETQUATHI
+		GROUP BY MAMH
+	) C 
+	ON B.MAMH = C.MAMH
+	WHERE NOT EXISTS (
+		SELECT 1 FROM KETQUATHI D 
+		WHERE B.MAHV = D.MAHV AND B.MAMH = D.MAMH AND B.LANTHI < D.LANTHI
+	) AND DIEM = DIEMMAX
+) A INNER JOIN HOCVIEN HV
+ON A.MAHV = HV.MAHV
+ORDER BY A.MAHV ASC
