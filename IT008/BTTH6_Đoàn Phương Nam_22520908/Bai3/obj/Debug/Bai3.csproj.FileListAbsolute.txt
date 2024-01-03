@@ -1,0 +1,11 @@
+D:\Project\Material-UIT\IT008\BTTH6_Đoàn Phương Nam_22520908\Bai3\bin\Debug\Bai3.exe.config
+D:\Project\Material-UIT\IT008\BTTH6_Đoàn Phương Nam_22520908\Bai3\bin\Debug\Bai3.exe
+D:\Project\Material-UIT\IT008\BTTH6_Đoàn Phương Nam_22520908\Bai3\bin\Debug\Bai3.pdb
+D:\Project\Material-UIT\IT008\BTTH6_Đoàn Phương Nam_22520908\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+D:\Project\Material-UIT\IT008\BTTH6_Đoàn Phương Nam_22520908\Bai3\obj\Debug\Bai3.Form1.resources
+D:\Project\Material-UIT\IT008\BTTH6_Đoàn Phương Nam_22520908\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+D:\Project\Material-UIT\IT008\BTTH6_Đoàn Phương Nam_22520908\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+D:\Project\Material-UIT\IT008\BTTH6_Đoàn Phương Nam_22520908\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+D:\Project\Material-UIT\IT008\BTTH6_Đoàn Phương Nam_22520908\Bai3\obj\Debug\Bai3.exe
+D:\Project\Material-UIT\IT008\BTTH6_Đoàn Phương Nam_22520908\Bai3\obj\Debug\Bai3.pdb
+D:\Project\Material-UIT\IT008\BTTH6_Đoàn Phương Nam_22520908\Bai3\obj\Debug\Bai3.Form2.resources
